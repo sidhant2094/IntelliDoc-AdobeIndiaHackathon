@@ -1,0 +1,4 @@
+# Python dependencies for AdobeIndiaHackthon Round 1A
+PyMuPDF>=1.23.3
+pytesseract>=0.3.10
+Pillow>=10.0.0

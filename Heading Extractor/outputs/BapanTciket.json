@@ -1,0 +1,80 @@
+{
+  "title": "13009 / DOON EXPRESS SLEEPER CLASS (SL)",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Electronic Reservation Slip (ERS) -Normal User",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "Booked From To",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "DURGAPUR (DGR) DURGAPUR (DGR) JAUNPUR JN (JNU)",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Start Date* 15-Jul-2025 Departure* 23:15 15-Jul-2025 Arrival* 13:28 16-Jul-2025",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "PNR Train No./Name Class",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "Quota Distance Booking Date",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Passenger Details",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Name Age Gender Booking Status Current Status",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Transaction ID: 100005916522848",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Payment Details",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Dial 139 or SMS RAIL to 139.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Indian Railways GST Details:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "INSTRUCTIONS:",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Customer Care:",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Print ERS Without Advertisements [X]",
+      "page": 3
+    }
+  ]
+}
