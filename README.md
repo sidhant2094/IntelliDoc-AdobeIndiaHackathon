@@ -271,9 +271,6 @@ Generated results will be saved in the `outputs/` directory.
 
 **Sidhant Malik**
 
-B.Tech, Electronics & Communication Engineering  
-Maharaja Agrasen Institute of Technology (MAIT)
-
 ---
 
 ## License
