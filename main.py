@@ -14,7 +14,7 @@ from typing import Dict, List, Any
 
 # Import our custom modules
 from document_processor import DocumentProcessor
-from personna_analyzer import PersonaAnalyzer
+from persona_analyzer import PersonaAnalyzer
 from relevance_engine import RelevanceEngine
 
 # Configure logging
